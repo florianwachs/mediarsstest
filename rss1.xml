@@ -5,15 +5,10 @@
         <link></link>
         <description>Sample Media RSS</description>
         <item>
-            <guid>2</guid>
+            <guid>4</guid>
             <title>Title For Image 1</title>
             <description>Sample Media RSS Item 1</description>
-            <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/02-example.jpeg"/>
-        </item>
-        <item>
-            <title>Title For Image 3</title>
-            <description>Sample Media RSS Item 3</description>
-            <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/03-example.jpeg"/>
-        </item>
+            <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/04-example.jpeg"/>
+        </item>        
     </channel>
 </rss>
