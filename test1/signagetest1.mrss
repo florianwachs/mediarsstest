@@ -9,7 +9,7 @@
       <pubDate>Thu, 25 Jan 2024 11:07:09 +01:00</pubDate>
       <title>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg</title>
       <description>Description</description>
-      <media:thumbnail url="https://github.com/florianwachs/mediarsstest/blob/main/test1/assets/_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg" />
+      <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/02-example.jpeg" />
     </item>
   </channel>
 </rss>
