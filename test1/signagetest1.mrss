@@ -5,11 +5,10 @@
     <description>Reports for ...</description>
     <link />
     <item>
-      <guid>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg_18.01.2024 08:33:15</guid>
-      <pubDate>Thu, 25 Jan 2024 11:07:09 +01:00</pubDate>
-      <title>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg</title>
-      <description>Description</description>
-      <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/02-example.jpeg" />
-    </item>
+      <guid>4</guid>
+      <title>Title For Image 1</title>
+      <description>Sample Media RSS Item 1</description>
+      <media:thumbnail url="https://s3.amazonaws.com/pisignage/media-rss-examples-photos/02-example.jpeg"/>
+  </item>
   </channel>
 </rss>
