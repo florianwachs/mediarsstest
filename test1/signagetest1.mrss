@@ -1,13 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-  <title>Report Feed</title>
-  <description>Reports for ...</description>
-  <link />
-  <item>
-    <guid>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg_18.01.2024 08:33:15</guid>
-    <pubDate>Thu, 25 Jan 2024 10:50:45 +01:00</pubDate>
-    <title>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg</title>
-    <description>Description</description>
-    <media:thumbnail url="https://raw.githubusercontent.com/florianwachs/mediarsstest/main/test1/assets/_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg" />
-  </item>
+  <channel>
+    <title>Report Feed</title>
+    <description>Reports for ...</description>
+    <link />
+    <item>
+      <guid>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg_18.01.2024 08:33:15</guid>
+      <pubDate>Thu, 25 Jan 2024 11:07:09 +01:00</pubDate>
+      <title>_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg</title>
+      <description>Description</description>
+      <media:thumbnail url="https://github.com/florianwachs/mediarsstest/blob/main/test1/assets/_f1dfc176-8e39-48d4-a7f9-19be9f4e789a.jpeg" />
+    </item>
+  </channel>
 </rss>
