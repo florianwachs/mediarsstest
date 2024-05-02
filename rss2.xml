@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Report Feed</title>
+        <description>Reports for ...</description>
+        <link/>
+        <item>
+            <guid>OIP.jpeg_04.04.2024 15:39:48</guid>
+            <pubDate>Thu, 04 Apr 2024 15:39:48 +02:00</pubDate>
+            <title>OIP.jpeg</title>
+            <description>Description</description>
+            <media:thumbnail
+                    url="https://raw.githubusercontent.com/florianwachs/mediarsstest/main/test2/zblkAA/content/OIP.jpeg"/>
+        </item>
+    </channel>
+</rss>
